@@ -12,6 +12,6 @@ Brand: Surly, Count: 11
 Brand: Trek, Count: 41
 
 # In conclusion
-In our analysis, we've identified a total of 90 products that consistently experience late shipments or collection. 
+In this analysis, we've identified a total of 90 products that consistently experience late shipments or collection. 
 From these results, it's evident that both the Electra and Trek brands are experiencing order delay issues. 
 These findings provide insights for addressing and resolving these shipping challenges.

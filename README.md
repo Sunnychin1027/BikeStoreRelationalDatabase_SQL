@@ -1,3 +1,6 @@
+# Download dataset from
+kaggle datasets download -d dillonmyrick/bike-store-sample-database
+
 # BikeStoreRelationalDatabase_SQL
 The goal is to pinpoint brands with potential shipping delays and enhance our strategy to meet customer expectations.
 

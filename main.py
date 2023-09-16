@@ -1,14 +1,15 @@
 """
-Question for myself:
+ challenges foresee with the data:
 While I was examining the data, I noticed that in the orders table, some shipped_date values are later than the required_date.
 I would like to identify specific brands that may have a higher likelihood of delayed shipments.
 But I also will check if the required date are later than the order date,
 so we can have a better strategy for meeting customer expectations more effectively.
 
 Here are the steps I plan to take with the data:
-1. Check if all required_date values are later than the order_date.
-2. Determine the number of orders and which orders have a shipped_date later than the required_date.
-3. Examine the details of these orders. I believe that understanding the product and brand involved will be a valuable approach.
+1. Check if there are missing value in table.
+2. Check if all required_date values are later than the order_date.
+3. Determine the number of orders and which orders have a shipped_date later than the required_date.
+4. Examine the details of these orders. I believe that knowing the product and brand will be a valuable approach.
 """
 
 import cursor as cursor
